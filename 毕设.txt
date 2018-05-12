@@ -1,0 +1,22 @@
+课题名称：
+网络广告中违法文本自动识别研究 
+选题性质与选题类型：
+综合型 
+选题难度：
+难 
+选题份量：
+适中 
+指导教师：
+王永(经) 
+选题方式：
+指定学生 
+状态：
+已发布 
+研究目标
+近年来，网络广告业发展迅速。网络广告违规的问题随之日益突出。针对网络广告数量巨大，难以采用人工方式监管与审查的问题，课题的目标是设计并实现了一种智能识别网络广告中违规词的方法。可以有效辅助网络广告的监管。 
+主要研究内容和方法
+主要研究内容： 1. 研究如何从网络页码中获取相应的广告文本内容。 2. 研究广告法的相关规定，为判断广告词违法提供支持。 3. 基于自然语言的研究匹配识别算法，能够发现广告词中违法的用词和信息。 研究过程中可使用如下方法，但不限于： 1. 文献法 2. 模式识别中的方法 3. 自然语音中的相关方法 4. Google词向量和句向量的相关方法。
+主要考核要求或指标
+1. 设计出有一定准确性的自动识别方法 2. 完成毕业设计论文，并满足学校的相关要求 3. 翻译相关外文文献 
+主要参考文献
+[1]	王宁宁，杨瑜，杨姗姗. 基于贝叶斯算法的网络广告监督管理[J].电子商务，2016，08：14-17. [2]	张知临. 工商网上违法广告智能识别关键技术研究与实现.浙江:浙江大学计算机科学与技术应用学院，2013. [3]	Abdulrazzaq AA, NA Rashid, ANB Ali. Fast hybrid string matching algorithm [J]. International Journal of Digital Content Technology & its Applic, 2013, 7: 62-68. [4]	Erhard Rahm, Philip A. Bernstein. A survey of approaches to automatic schema matching [J]. Rahm, E. & Bernstein, P. The VLDB Journal, 2001, 10: 334-350. [5]	张忠生，王俊人. 一种模式匹配促进实体统一的方法[J]. 山东师范大学学报(自然科学版). 2012，27（2）：35-39. [6]	Robert S. Boyer, Stanford Research Institute, Menlo Park. A fast string searching algorithm [J].Communications of the ACM, 1977: 762-772. [7]	温都日娜. 一种基于本体的敏感词过滤方法研究[D].吉林:吉林大学计算机科学与技术学院，2014. [8]	Y. Ding, S. Foo. Ontology research and development: part1-a review of ontology generation [J].Information Science, 2002, 28(2): 234-260. 
